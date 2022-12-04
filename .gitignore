@@ -84,6 +84,10 @@ target/
 # DotEnv configuration
 .env
 
+
+Data*
+Data/
+/Data
 # Database
 *.db
 *.rdb
