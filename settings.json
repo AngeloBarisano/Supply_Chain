@@ -11,5 +11,5 @@
     "python.linting.enabled": true,
     "python.defaultInterpreterPath": "/home/angelo/Documents/Uni/Courses/Digital Transformation & Supply Chain/supply_chain_assignment/bin/python3",
     "terminal.integrated.cwd": "/home/angelo/Documents/Uni/Courses/Digital Transformation & Supply Chain/supply_chain_assignment/",
-    "jupyter.notebookFileRoot": "/home/angelo/Documents/Uni/Courses/Digital Transformation & Supply Chain/supply_chain_assignment/",
+    "jupyter.notebookFileRoot": "/home/angelo/Documents/Uni/Courses/Digital Transformation & Supply Chain/supply_chain_assignment/bin/python3",
 }
